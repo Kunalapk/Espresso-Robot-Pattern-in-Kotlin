@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Espresso-Robot-Pattern-in-Kotlin</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="missing_fields">Please fill email and password fieds</string>
+    <string name="ok">ok</string>
+
 </resources>
